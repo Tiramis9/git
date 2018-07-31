@@ -1,0 +1,1 @@
+LOG(REDIS_LOG_MODULE, REDIS_LOG_PROC, "red file 02\n");
